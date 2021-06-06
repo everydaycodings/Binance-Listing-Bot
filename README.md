@@ -1,7 +1,7 @@
 # Binance-Listing-Bot (Development Mode)
 Binance-Listing-Bot (Sniper Bot) To place an order as soon as an Asset is listed on Binance
 
-### I prefer using it first with Binance Test Api to understatnd it then using it with Your real Binance Account!
+### I prefer using it first with Binance Test Api to understatnd it and then using it with Your real Binance Account!
 
 ## Setup
 1) Create a Binance Test API Account By [Clicking Here](https://testnet.binance.vision/)
