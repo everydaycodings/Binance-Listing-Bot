@@ -12,6 +12,6 @@ Binance-Listing-Bot (Sniper Bot) To place an order as soon as an Asset is listed
 
 
 ## Resources
-1) [Listing Data](https://www.binance.com/en/support/announcement/c-48?navId=48)
+1) [Binance Listing Data](https://www.binance.com/en/support/announcement/c-48?navId=48)
 2) [Binance API Documentation](https://python-binance.readthedocs.io/en/latest/overview.html)
 3) [Binance Test API](https://testnet.binance.vision/)
